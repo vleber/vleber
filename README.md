@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vleber
 - 👀 I’m interested in Data Science and Data Visualisation using Python
 - 🌱 I’m currently learning ML techniques 
-- 💞️ My background is in Biomedical Science looking at protein structures
+- 💞️ My background is in Biomedical Science and Cancer Research
 
 
 <!---
